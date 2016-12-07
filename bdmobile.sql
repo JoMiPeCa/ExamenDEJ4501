@@ -15,12 +15,12 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
-CREATE DATABASE /*!32312 IF NOT EXISTS*/`bdmobile` /*!40100 DEFAULT CHARACTER SET utf8 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/`vtr` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
-USE `bdmobile`;
+USE `vtr`;
 
 --
--- Base de datos: `bdmobile`
+-- Base de datos: `vtr`
 --
 
 -- --------------------------------------------------------
